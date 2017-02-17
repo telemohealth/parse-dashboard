@@ -1,0 +1,25 @@
+{
+  "apps": [{
+    "serverURL": "http://localhost:1337/parse",
+    "appId": "LKUlC0263f7Cg73UN6cIs7bddzxsIr3FXZF6ezC4",
+    "masterKey": "vpcDy29VrxYBtpFJsrEOKSXUUA51EMPT2lffKKZk",
+    "appName": "Zoi Health - Local",
+    "iconName": "Zoi Health"
+  },
+  {
+    "serverURL": "http://zoi-debug-linux-vm.eastus.cloudapp.azure.com:1337/parse",
+    "appId": "LKUlC0263f7Cg73UN6cIs7bddzxsIr3FXZF6ezC4",
+    "masterKey": "vpcDy29VrxYBtpFJsrEOKSXUUA51EMPT2lffKKZk",
+    "appName": "Zoi Health - Debug",
+    "iconName": "Zoi Health"
+  },
+  {
+    "serverURL": "http://zoi-prod-linux-vm.westus.cloudapp.azure.com:1337/parse",
+    "appId": "4rGVNu0fYHu6DhBESJooVeMD3iYKelTNqtfMmJIW",
+    "masterKey": "ndSn3IdE0fRV249OSaRRuWhd7SBu0s2oVfgnhbJo",
+    "appName": "Zoi Health - Prod",
+    "iconName": "Zoi Health"
+  }
+  ],
+  "iconsFolder": "icons"
+}
